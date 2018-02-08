@@ -80,7 +80,7 @@ theme: anatole
 deploy:
   type: git
   repo: https://github.com/bnmghjtyu0/bnmghjtyu0.github.io.git
-  branch: gh-pages
+  branch: master
 
 #Admin
 admin:
