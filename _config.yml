@@ -6,7 +6,7 @@
 title: Richard
 subtitle: welcome
 description:
-author: poChang
+author: PoChang
 language: zh-tw
 timezone:
 
@@ -108,4 +108,4 @@ marked:
 
 # 建立留言
 # Disqus
-disqus_shortname: 名稱
+disqus_shortname: richardliao

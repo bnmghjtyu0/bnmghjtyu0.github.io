@@ -1,10 +1,19 @@
 ---
-title: 資料傳遞：require 與 module
+title: NodeJS學習筆記
 tags: []
 categories: node
 date: 2018-02-04 16:18:38
 ---
 
+<div class="tip">
+<ol style="padding-left:20px;">
+<li><a href="#Node01">資料傳遞：require 與 module</a></li>
+</ol>
+</div>
+
+<ul id="Node01">
+<li>
+<h4>資料傳遞：require 與 module</h4>
 取得資料 ./app.js
 <pre>
 var require = require('./data');
@@ -19,3 +28,7 @@ module.exports = {
     sex: girl
 }
 </pre>
+</li>
+</ul>
+
+
