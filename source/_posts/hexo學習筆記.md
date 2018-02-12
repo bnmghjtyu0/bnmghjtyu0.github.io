@@ -42,10 +42,11 @@ $ hexo new page about
 <pre>
 $ git submodule add git@github.com:change2hao/hexo-theme-anatole.git themes/anatole
 $ git commit -am "refine UI"
-$ git push origin source
-$git submodule init // 这句很重要
-$git submodule update
+$ git push origin develop
+$ git submodule init // 这句很重要
+$ git submodule update
 </pre> -->
+<a href="http://devtian.me/2015/03/17/blog-sync-solution/">主題同步解決方法</a>
 
 <h4 style="margin-bottom:10px">hexo 相關連結</h4>
 <a href="https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-1.html">
