@@ -21,10 +21,6 @@ date: 2018-02-12 10:18:38
 
 <a href="http://www.fancynode.com.cn/pxcook">pxcook
 </a>
-
-<p><i class="fab fa-windows"></i>
-<i class="fab fa-apple"></i>
-<span>free</span></p>
 </li>
 
 <li>
@@ -36,7 +32,6 @@ date: 2018-02-12 10:18:38
 <li>
   <p><b>FontAwesome PS</b></p>
   <a href="http://creativedo.co/FontAwesomePS">http://creativedo.co/FontAwesomePS</a>
-<p><span>pay</span></p>
 </li>
 
 <li><p><b>切圖工具</b></p><a href="http://oven.chrometaphore.com/">http://oven.chrometaphore.com/</a></li>
@@ -66,8 +61,8 @@ date: 2018-02-12 10:18:38
 <br>
 <a href="http://gridcalculator.dk/#/960/12/15/15">GRID</a>
 <br>
-<table>
-<caption><a href="http://modulargrid.org/#app">ModularGrid</a></caption>
+<table class="table" border="1" style="border-collapse: collapse;">
+<caption style="background:#333;"><a href="http://modulargrid.org/#app" style="color:#fff">ModularGrid</a></caption>
 <tr>
 <th>Baseline</th>
 <td>8</td>
