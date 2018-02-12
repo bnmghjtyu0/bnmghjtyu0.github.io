@@ -40,8 +40,11 @@ $ hexo new page about
 
 <!-- <h4>Hexo主題push失敗：解決方法</h4>
 <pre>
-git remote add -f anatole git@github.com:w4lle/hexo-theme-anatole.git
-git subtree add --prefix=themes/anatole anatole master --squash
+$ git submodule add git@github.com:change2hao/hexo-theme-anatole.git themes/anatole
+$ git commit -am "refine UI"
+$ git push origin source
+$git submodule init // 这句很重要
+$git submodule update
 </pre> -->
 
 <h4 style="margin-bottom:10px">hexo 相關連結</h4>
