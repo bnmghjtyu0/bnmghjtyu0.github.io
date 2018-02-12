@@ -38,11 +38,11 @@ $ hexo new page about
 </code>
 </pre>
 
-<h4>Hexo主題push失敗：解決方法</h4>
+<!-- <h4>Hexo主題push失敗：解決方法</h4>
 <pre>
 git remote add -f anatole git@github.com:w4lle/hexo-theme-anatole.git
 git subtree add --prefix=themes/anatole anatole master --squash
-</pre>
+</pre> -->
 
 <h4 style="margin-bottom:10px">hexo 相關連結</h4>
 <a href="https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-1.html">
