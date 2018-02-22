@@ -109,3 +109,11 @@ marked:
 # 建立留言
 # Disqus
 disqus_shortname: richardliao
+
+#plugin
+githubEmojis:
+  enable: true
+  className: github-emoji
+  unicode: false
+  styles:
+  localEmojis:
