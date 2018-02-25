@@ -1,5 +1,5 @@
 ---
-title: Math.random 的最大最小值
+title: Math.random
 tags: [javascript,vue]
 categories: js
 date: 2018-02-25 16:18:38
