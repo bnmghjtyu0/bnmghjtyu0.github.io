@@ -15,8 +15,8 @@ script: #要執行的程式
 after_success: #執行完成後的 git push
   - cd ./public
   - git init
-  - git config user.name "你的user帳號"
-  - git config user.email "你的email"
+  - git config user.name "bnmghjtyu0"
+  - git config user.email "bnmghjtyu0@gmail.com"
   - git add .
   - git commit -m "Update by travis ci"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
