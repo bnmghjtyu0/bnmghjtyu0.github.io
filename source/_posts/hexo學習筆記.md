@@ -62,8 +62,10 @@ https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-1.html</a>
 <a href="https://github.com/crimx/hexo-filter-github-emojis">emojis</a>
 <br>
 <a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">icon速查表</a>
+<div class="pre-group">
 <div class="pre-head mt-1">/source/_posts/xxx.md</div>
 <div class="pre-body"><pre>: tada : = :tada: <br>: bowtie : = :bowtie:</pre></div>
+</div>
 
 </li>
 </ul>
