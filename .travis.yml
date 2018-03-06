@@ -7,7 +7,7 @@ install:
 
 script: #要執行的程式
   - hexo cl # 清除
-  - hexo g -d # 生成
+  - hexo g # 生成
 
 after_success: #執行完成後的 git push
   - cd ./public
