@@ -1,0 +1,10 @@
+- name: anatole
+  description: A brand new default theme for Hexo.
+  link: https://github.com/Ben02/hexo-theme-Anatole
+  preview: http://anatole.munen.cc
+  tags:
+    - official
+    - responsive
+    - widget
+    - two_column
+    - one_column
