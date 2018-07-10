@@ -7,9 +7,9 @@ date: 2018-02-22 16:18:38
 
 <div class="tip">
 <h4 style="margin-bottom:20px">
-  <b>有了 Travis-ci，你就可以一鍵發行 master 與 branch 了 :tada::tada::tada:
-</b>
+  <b>有了 Travis-ci，你就可以自動同步很多事情了 :tada::tada::tada:</b>
 </h4>
+<p>舉例: hexo 使用 git push 自動同步 hexo g hexo d</p>
 <hr style="margin-top:0px">
 <p><em>form <a href="https://travis-ci.org/">travis-ci官網 (另開視窗)</a></em></p>
 </div>

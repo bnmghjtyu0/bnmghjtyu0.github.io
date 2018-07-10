@@ -1,5 +1,5 @@
 ---
-title: hexo學習筆記(持續更新中)
+title: hexo
 tags: []
 categories: 部落格
 date: 2018-02-04 16:18:38

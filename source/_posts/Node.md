@@ -1,5 +1,5 @@
 ---
-title: NodeJS學習筆記(持續更新中)
+title: Node
 tags: []
 categories: node
 date: 2018-02-04 16:18:38
@@ -20,6 +20,7 @@ var require = require('./data');
 </pre>
 
 輸出資料 ./data.js
+
 <pre>
 var name = '吉利蛋';
 module.exports = {
@@ -30,5 +31,3 @@ module.exports = {
 </pre>
 </li>
 </ul>
-
-
