@@ -5,7 +5,32 @@ categories: 部落格
 date: 2018-07-10 15:00:38
 ---
 
-<div class="tip">
+<style>
+body {
+  font-family:'微軟正黑體';
+}
+section.template ol {
+  display:flex;
+  flex-wrap:wrap;
+  padding-left:0;
+
+}
+section.template ol li {
+  list-style:none;
+  margin:0.375rem 0.75rem;
+}
+section.template a{
+  display:inline-block;
+  background:#7bcdbf;
+  padding:0.75rem;
+  color:#fff !important;
+  border-radius:0.375rem;
+}
+section.template a:hover {
+  background:#4c9e91;
+}
+</style>
+<section class="tip template">
 <h3 style="margin-bottom:20px;margin-top:20px">模板</h3>
 
 <div>
@@ -125,9 +150,9 @@ date: 2018-07-10 15:00:38
 
 <ol></div>
 
-</div>
+</section>
 
-<div class="tip">
+<section class="tip">
 <h4 style="margin-bottom:20px;margin-top:20px">常用工具整理</h4>
 <ul>
 <li><p><b>mockup</b></p>
@@ -225,4 +250,4 @@ date: 2018-07-10 15:00:38
 
 </ul>
 
-</div>
+</section>
