@@ -1,0 +1,6 @@
+[submodule "themes/alatole"]
+	path = themes/alatole
+	url = https://github.com/bnmghjtyu0/hexo-theme-Anatole.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/bnmghjtyu0/hexo-theme-Anatole.git
