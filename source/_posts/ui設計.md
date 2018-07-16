@@ -166,7 +166,7 @@ section.template a:hover {
 <a href="https://www.youtube.com/channel/UCkSsO6Ieg9cNpyq_WQWrLbg">Arunz Creation</a>
 </li>
 <li>
-<a href="https://www.youtube.com/channel/UCdXqlgbv4gO6wyuS6fi8Vjw">甲級工具人</a>
+<!-- <a href="https://www.youtube.com/channel/UCdXqlgbv4gO6wyuS6fi8Vjw">甲級工具人</a> -->
 </li>
 </ol></div>
 
