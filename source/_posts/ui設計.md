@@ -6,6 +6,7 @@ date: 2018-07-10 15:00:38
 ---
 
 <style>
+
 body {
   font-family:'微軟正黑體';
 }
@@ -29,12 +30,35 @@ section.template a{
 section.template a:hover {
   background:#4c9e91;
 }
+.badge {
+  font-size:0.6rem;
+  text-transform: capitalize;
+}
+.badge-primary {
+  color:#fff;
+  background:#44a9ff;
+  padding:0.175rem 0.75rem;
+  border-radius:25px;
+}
+.badge-success {
+  color:#fff;
+  background:#69c358;
+  padding:0.175rem 0.75rem;
+  border-radius:25px;
+}
+.badge-danger {
+  color:#fff;
+  background:#da6969;
+  padding:0.175rem 0.75rem;
+  border-radius:25px;
+}
+/* badge badge-success */
 </style>
 <section class="tip template">
-<h3 style="margin-bottom:20px;margin-top:20px">模板</h3>
+<h3 class="title">模板</h3>
 
 <div>
-<h4 style="margin-bottom:20px;margin-top:20px">純欣賞</h4>
+<h4 class="title">純欣賞</h4>
 <ol class="row">
 
 <li class="col-sm-3">
@@ -65,7 +89,7 @@ section.template a:hover {
 </ol>
 </div>
 <div>
-<h4 style="margin-bottom:20px;margin-top:20px">網頁組件</h4>
+<h4 class="title">網頁組件</h4>
 <ol class="row">
 
 <li class="col-sm-3">
@@ -75,8 +99,8 @@ section.template a:hover {
 </ol>
 </div>
 <div>
-<h4 style="margin-bottom:20px;margin-top:20px">設計模板(前台)
-<span class="badge badge-danger">free</span>
+<h4 class="title">設計模板(前台)
+<span class="badge badge-success">free</span>
 <span class="badge badge-primary">PSD</span>
 </h4>
 <ol>
@@ -106,7 +130,7 @@ section.template a:hover {
 <ol></div>
 
 <div>
-<h4 style="margin-bottom:20px;margin-top:20px">設計模板(後台) <span class="badge badge-danger">free</span> <span class="badge badge-primary">PSD</span></h4>
+<h4 class="title">設計模板(後台) <span class="badge badge-success">free</span> <span class="badge badge-primary">PSD</span></h4>
 <ol>
 
 <li>
@@ -116,8 +140,8 @@ section.template a:hover {
 <ol></div>
 
 <div>
-<h4 style="margin-bottom:20px;margin-top:20px">HTML模板(後台)
-<span class="badge badge-danger">free</span>
+<h4 class="title">HTML模板(後台)
+<span class="badge badge-success">free</span>
 </h4>
 <ol>
 
@@ -128,7 +152,7 @@ section.template a:hover {
 <ol></div>
 
 <div>
-<h4 style="margin-bottom:20px;margin-top:20px">平面設計 <span class="badge badge-danger">free</span></h4>
+<h4 style="margin-bottom:20px;margin-top:20px">平面設計 <span class="badge badge-success">free</span></h4>
 <ol>
 <li>
 <a href="http://ibaotu.com/">包圖網</a>
@@ -166,7 +190,7 @@ section.template a:hover {
 <a href="https://www.youtube.com/channel/UCkSsO6Ieg9cNpyq_WQWrLbg">Arunz Creation</a>
 </li>
 <li>
-<!-- <a href="https://www.youtube.com/channel/UCdXqlgbv4gO6wyuS6fi8Vjw">甲級工具人</a> -->
+<a href="https://www.youtube.com/channel/UCdXqlgbv4gO6wyuS6fi8Vjw">甲級工具人</a>
 </li>
 </ol></div>
 
