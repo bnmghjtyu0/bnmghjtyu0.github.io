@@ -1,6 +1,6 @@
 - npm install 安裝 package.json
 
-- git submodule update init 下載主題
+- git submodule update --init 下載主題
 
 - hexo server 啟動 hexo server
 

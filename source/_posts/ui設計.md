@@ -152,6 +152,26 @@ section.template a:hover {
 
 </section>
 
+<section class="tip template">
+<div>
+<h3 style="margin-bottom:20px;margin-top:20px">photoshop 影片</h3>
+<ol>
+<li>
+<a href="https://www.youtube.com/channel/UC6lrxMZggMaN1u2V9N2-zrQ">Photoshop Tutorials</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCopU6KXnK517ycc4tZyzm-g">Creative Station</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCkSsO6Ieg9cNpyq_WQWrLbg">Arunz Creation</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCdXqlgbv4gO6wyuS6fi8Vjw">甲級工具人</a>
+</li>
+</ol></div>
+
+</section>
+
 <section class="tip">
 <h4 style="margin-bottom:20px;margin-top:20px">常用工具整理</h4>
 <ul>
