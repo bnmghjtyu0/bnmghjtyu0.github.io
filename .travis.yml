@@ -1,6 +1,11 @@
 language: node_js #語言
 
-node_js: stable #語言版本
+node_js:  #語言版本
+  - "iojs"
+  - "7"
+
+before_install:
+  - npm i -g npm@6.1
 
 install:
   - npm install #安裝 hexo 及 插件
