@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>前端日常1990</title>
+  
+  <subtitle>喜歡中國風 ~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-29T07:39:28.692Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Richardliao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ui設計</title>
+    <link href="http://yoursite.com/2018/07/10/ui%E8%A8%AD%E8%A8%88/"/>
+    <id>http://yoursite.com/2018/07/10/ui設計/</id>
+    <published>2018-07-10T15:00:38.000Z</published>
+    <updated>2018-07-29T07:39:28.692Z</updated>
+    
+    <content type="html"><![CDATA[<style><p>body {  font-family:&#39;微軟正黑體&#39;;}section.template ol {  display:flex;  flex-wrap:wrap;  padding-left:0;</p><p>}section.template ol li {  list-style:none;  margin:0.375rem 0.75rem;}section.template a{  display:inline-block;  background:#7bcdbf;  padding:0.75rem;  color:#fff !important;  border-radius:0.375rem;}section.template a:hover {  background:#4c9e91;}.badge {  font-size:0.6rem;  text-transform: capitalize;}.badge-primary {  color:#fff;  background:#44a9ff;  padding:0.175rem 0.75rem;  border-radius:25px;}.badge-success {  color:#fff;  background:#69c358;  padding:0.175rem 0.75rem;  border-radius:25px;}.badge-danger {  color:#fff;  background:#da6969;  padding:0.175rem 0.75rem;  border-radius:25px;}/<em> badge badge-success </em>/</style><p></p><section class="tip template"><h3 class="title">模板</h3><div><h4 class="title">純欣賞</h4><ol class="row"><li class="col-sm-3"><a href="http://muuuuu.org/" target="_blank" rel="noopener">muuuuu</a></li><li class="col-sm-3"><a href="https://www.webdesignclip.com/" target="_blank" rel="noopener">webdesignclip</a></li><li class="col-sm-3"><a href="http://responsive-jp.com/" target="_blank" rel="noopener">responsive-jp</a></li><li class="col-sm-3"><a href="https://interfaces.pro/" target="_blank" rel="noopener">interface.pro</a></li><li class="col-sm-3"><a href="http://collectui.com/designs" target="_blank" rel="noopener">collectui</a></li><li class="col-sm-3"><a href="http://4db.cc/" target="_blank" rel="noopener">4db</a></li><li class="col-sm-3"><a href="https://klart.io/pixels" target="_blank" rel="noopener">klart</a></li><li class="col-sm-3"><a href="https://www.cssdesignawards.com/" target="_blank" rel="noopener">cssdesignawards</a></li></ol></div><div><h4 class="title">網頁組件</h4><ol class="row"><li class="col-sm-3"><a href="https://freefrontend.com/css-code-examples/" target="_blank" rel="noopener">freefrontend</a></li></ol></div><div><h4 class="title">設計模板(前台)<span class="badge badge-success">free</span><span class="badge badge-primary">PSD</span></h4><ol><li><a href="http://www.uipixels.com/" target="_blank" rel="noopener">uipixels</a></li><li><a href="https://psdrepo.com/tag/free-psd-website-templates/" target="_blank" rel="noopener">psdrepo</a></li><li><a href="https://freebiesbug.com/psd-freebies/website-template/" target="_blank" rel="noopener">freebiesbug</a></li><li><a href="https://www.pinterest.com/search/pins/?q=psd%20template%20website%20free&rs=typed&term_meta[]=psd%7Ctyped&term_meta[]=template%7Ctyped&term_meta[]=website%7Ctyped&term_meta[]=free%7Ctyped" target="_blank" rel="noopener">pinterest</a></li><li><a href="https://symu.co/freebies/templates-4/" target="_blank" rel="noopener">symu</a></li><li><a href="http://design-studio.io/portfolio/#web-ui" target="_blank" rel="noopener">design-studio</a></li><li><a href="https://pinspiry.com/category/free-resources/templates/web/" target="_blank" rel="noopener">pinspiry</a></li><ol></ol></ol></div><div><h4 class="title">設計模板(後台) <span class="badge badge-success">free</span> <span class="badge badge-primary">PSD</span></h4><ol><li><a href="http://www.uipixels.com/" target="_blank" rel="noopener">uipixels</a></li><ol></ol></ol></div><div><h4 class="title">HTML模板(後台)<span class="badge badge-success">free</span></h4><ol><li><a href="https://cssauthor.com/bootstrap-admin-templates/" target="_blank" rel="noopener">cssauthor</a></li><ol></ol></ol></div><div><h4 style="margin-bottom:20px;margin-top:20px">平面設計 <span class="badge badge-success">free</span></h4><ol><li><a href="http://ibaotu.com/" target="_blank" rel="noopener">包圖網</a></li><li><a href="http://free-paper-texture.com/" target="_blank" rel="noopener">paper-texture</a></li><ol></ol></ol></div><div><h4 style="margin-bottom:20px;margin-top:20px">更多 <span class="badge badge-danger">pay</span></h4><ol><li><a href="https://www.templatemonster.com/" target="_blank" rel="noopener">模板巨人</a></li><li><a href="https://themeforest.net/category/psd-templates#content" target="_blank" rel="noopener">envato</a></li><ol></ol></ol></div></section><section class="tip template"><div><h3 style="margin-bottom:20px;margin-top:20px">photoshop 影片</h3><ol><li><a href="https://www.youtube.com/channel/UC6lrxMZggMaN1u2V9N2-zrQ" target="_blank" rel="noopener">Photoshop Tutorials</a></li><li><a href="https://www.youtube.com/channel/UCopU6KXnK517ycc4tZyzm-g" target="_blank" rel="noopener">Creative Station</a></li><li><a href="https://www.youtube.com/channel/UCkSsO6Ieg9cNpyq_WQWrLbg" target="_blank" rel="noopener">Arunz Creation</a></li><li><a href="https://www.youtube.com/channel/UCdXqlgbv4gO6wyuS6fi8Vjw" target="_blank" rel="noopener">甲級工具人</a></li></ol></div></section><section class="tip"><h4 style="margin-bottom:20px;margin-top:20px">常用工具整理</h4><ul><li><p><b>mockup</b></p><a href="https://moqups.com/" target="_blank" rel="noopener">https://moqups.com/</a></li><li><p><b>uberplugins</b></p><a href="http://uberplugins.cc/" target="_blank" rel="noopener">uberplugins</a></li><li><p><b>標註工具</b></p><a href="http://ink.chrometaphore.com/" target="_blank" rel="noopener">ink.chrometaphore</a><br><a href="http://www.fancynode.com.cn/pxcook" target="_blank" rel="noopener">pxcook</a></li><li><p><b>Guildes and Grids</b></p><a href="http://gelobi.org/griddify/" target="_blank" rel="noopener">http://gelobi.org/griddify/</a><a href="https://guideguide.me/" target="_blank" rel="noopener">https://guideguide.me/</a></li><li>  <p><b>FontAwesome PS</b></p>  <a href="http://creativedo.co/FontAwesomePS" target="_blank" rel="noopener">http://creativedo.co/FontAwesomePS</a></li><li><p><b>切圖工具</b></p><a href="http://oven.chrometaphore.com/" target="_blank" rel="noopener">http://oven.chrometaphore.com/</a></li><li><p><b>設計市場</b></p><a href="https://creativemarket.com/" target="_blank" rel="noopener">https://creativemarket.com/</a></li><li><p><b>photoshop extension installer</b></p><a href="http://zxpinstaller.com/" target="_blank" rel="noopener">http://zxpinstaller.com/</a></li><li><p><b>Mood boards-情緒版</b></p><a href="https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f" target="_blank" rel="noopener">https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f</a></li><a href="https://niice.co" target="_blank" rel="noopener">https://niice.co</a><li><p><b>Prototype、Mockup、Wireframe的不同</b></p><a href="https://blog.akanelee.me/posts/276909-beginners-of-prototype/" target="_blank" rel="noopener">嫁給 RD 的 UI Designer</a></li><li><p><b>Mockups草稿</b></p><a href="https://balsamiq.com/download/" target="_blank" rel="noopener">balsamiq下載</a></li><li><p><b>Grid System</b></p><a href="https://medialoot.com/item/ui-style-guide-template/" target="_blank" rel="noopener">ui-style-guide-template</a><br><a href="https://material.io/guidelines/layout/responsive-ui.html" target="_blank" rel="noopener">Material Design 規範</a><br><a href="https://medialoot.com/item/css-ui-style-guide/" target="_blank" rel="noopener">ui style guide</a><br><a href="http://gridcalculator.dk/#/960/12/15/15" target="_blank" rel="noopener">GRID</a><br><table class="table" border="1" style="border-collapse: collapse;"><caption style="background:#333;"><a href="http://modulargrid.org/#app" style="color:#fff" target="_blank" rel="noopener">ModularGrid</a></caption><tr><th>Baseline</th><td>8</td><th>Gutter</th><td>24</td></tr><tr><th>Module width</th><td>78</td><th>Module height</th><td>1</td></tr><tr><th>Num of modules</th><td>12</td><th>Layout width</th><td>1200</td></tr></table></li><li><p><b>UI style Guideline 模板</b></p><a href="https://www.lightningdesignsystem.com/" target="_blank" rel="noopener">https://www.lightningdesignsystem.com/</a><br><a href="https://ux.mailchimp.com/patterns" target="_blank" rel="noopener">https://ux.mailchimp.com/patterns</a><br><a href="http://codeforamerica.clearleft.com/" target="_blank" rel="noopener">美國代碼</a><br><a href="https://medialoot.com/themes/css-components/" target="_blank" rel="noopener">MediaLoot</a></li><li><p><b>Type Scale 文字大小設定</b></p><a href="http://www.modularscale.com/" target="_blank" rel="noopener">modularscale</a><br><a href="https://material.io/guidelines/style/typography.html#typography-styles" target="_blank" rel="noopener">Material design</a></li></ul></section>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;style&gt;
+
+&lt;p&gt;body {
+  font-family:&amp;#39;微軟正黑體&amp;#39;;
+}
+section.template ol {
+  display:flex;
+  flex-wrap:wrap;
+  padding-left:0;&lt;/p&gt;
+&lt;p&gt;}
+secti
+      
+    
+    </summary>
+    
+      <category term="部落格" scheme="http://yoursite.com/categories/%E9%83%A8%E8%90%BD%E6%A0%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vue-cli 安裝</title>
+    <link href="http://yoursite.com/2018/04/01/vue-cli/"/>
+    <id>http://yoursite.com/2018/04/01/vue-cli/</id>
+    <published>2018-04-01T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.692Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip"><h4>vscode 擴充</h4><p>主題: Atom One Dark</p><p>程式碼高亮: <a href="https://highlightjs.org/" target="_blank" rel="noopener">https://highlightjs.org/</a></p><p>MarkDown: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noopener">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></p></div><figure class="highlight shell"><figcaption><span>Session</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">vue init webpack-template v-demo</span><br><span class="line">- name</span><br><span class="line">- description</span><br><span class="line">- Author</span><br><span class="line">- vue build [Runtime Compiler]</span><br><span class="line">- vue-router [y]</span><br><span class="line">- eslint [n]</span><br><span class="line">- unit test [n]</span><br><span class="line">- e2e test [n]</span><br><span class="line">cd v-demo</span><br><span class="line">yarn [ brew install yarn ]</span><br><span class="line">yarn dev</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;tip&quot;&gt;
+&lt;h4&gt;vscode 擴充&lt;/h4&gt;
+
+&lt;p&gt;主題: Atom One Dark&lt;/p&gt;
+&lt;p&gt;程式碼高亮: &lt;a href=&quot;https://highlightjs.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;h
+      
+    
+    </summary>
+    
+      <category term="部落格" scheme="http://yoursite.com/categories/%E9%83%A8%E8%90%BD%E6%A0%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>初探 vue2</title>
+    <link href="http://yoursite.com/2018/03/04/Vue2/"/>
+    <id>http://yoursite.com/2018/03/04/Vue2/</id>
+    <published>2018-03-04T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.692Z</updated>
+    
+    <content type="html"><![CDATA[<p><div class="tip"><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> vm = <span class="keyword">new</span> Vue(&#123;</span><br><span class="line">  el:<span class="string">'#app'</span>,       <span class="comment">// 用來掛載 Vue 實體元素</span></span><br><span class="line">  data:&#123;&#125;,         <span class="comment">// 綁定資料</span></span><br><span class="line">  props:&#123;&#125;,        <span class="comment">// 接收子元件外部資料</span></span><br><span class="line">  methods:&#123;&#125;,      <span class="comment">// 定義方法 ＝ function a(el)&#123;&#125;</span></span><br><span class="line">  watch:&#123;&#125;,        <span class="comment">// 監聽 vue 資料變動</span></span><br><span class="line">  computed:&#123;&#125;,     <span class="comment">// 計算屬性</span></span><br><span class="line">  template:<span class="string">"..."</span>,  <span class="comment">// 模板</span></span><br><span class="line">  components:&#123;&#125;    <span class="comment">// 定義子元件</span></span><br><span class="line">  container:&#123;&#125;     <span class="comment">// 用 components 接資料，可測試 ui 畫面</span></span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure></div></p><p></p><p></p><h3 id="lifecycle" class="mb-0"><a href="#lifecycle"><i class="fas fa-share-square">#</i></a>生命週期</h3><p></p><p><hr class="mt-0 mb-1"></p><article><p data-height="700" data-theme-id="27337" data-slug-hash="PQVeYv" data-default-tab="js" data-user="bnmghjtyu" data-embed-version="2" data-pen-title="v-LifeCycle 生命週期" class="codepen">See the Pen <a href="https://codepen.io/bnmghjtyu/pen/PQVeYv/" target="_blank" rel="noopener">v-LifeCycle 生命週期</a> by RichardLiao 🇹🇼 (<a href="https://codepen.io/bnmghjtyu" target="_blank" rel="noopener">@bnmghjtyu</a>) on <a href="https://codepen.io" target="_blank" rel="noopener">CodePen</a>.</p><script async src="https://static.codepen.io/assets/embed/ei.js"></script></article>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;div class=&quot;tip&quot;&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;lin
+      
+    
+    </summary>
+    
+      <category term="vue" scheme="http://yoursite.com/categories/vue/"/>
+    
+    
+      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 取得 1~10 隨機亂數</title>
+    <link href="http://yoursite.com/2018/02/25/JavaScript/"/>
+    <id>http://yoursite.com/2018/02/25/JavaScript/</id>
+    <published>2018-02-25T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.688Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><h4 id="Random">Math.random 最大最小值</h4><p></p><iframe height="500" scrolling="no" title="JavaScript-Math.random(max,min)" src="//codepen.io/bnmghjtyu/embed/bLxzbO/?height=300&theme-id=27337&default-tab=js&embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;">See the Pen <a href="https://codepen.io/bnmghjtyu/pen/bLxzbO/" target="_blank" rel="noopener">JavaScript-Math.random(max,min)</a> by RichardLiao 🇹🇼 (<a href="https://codepen.io/bnmghjtyu" target="_blank" rel="noopener">@bnmghjtyu</a>) on <a href="https://codepen.io" target="_blank" rel="noopener">CodePen</a>.</iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;/p&gt;&lt;h4 id=&quot;Random&quot;&gt;Math.random 最大最小值&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;
+&lt;iframe height=&quot;500&quot; scrolling=&quot;no&quot; title=&quot;JavaScript-Math.random(max,min)&quot; src=&quot;//code
+      
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用 travis-ci 自動發行 Hexo 到 github ?</title>
+    <link href="http://yoursite.com/2018/02/22/%E7%94%A8Travis%20CI%E8%87%AA%E5%8B%95%E7%99%BC%E8%A1%8CHexo/"/>
+    <id>http://yoursite.com/2018/02/22/用Travis CI自動發行Hexo/</id>
+    <published>2018-02-22T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.692Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip"><h4 style="margin-bottom:20px">  <b>有了 Travis-ci，你就可以自動同步很多事情了 <img class="github-emoji" title="tada" alt="tada" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png?v8" height="20" width="20"><img class="github-emoji" title="tada" alt="tada" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png?v8" height="20" width="20"><img class="github-emoji" title="tada" alt="tada" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png?v8" height="20" width="20"></b></h4><p>舉例: hexo 使用 git push 自動同步 hexo g hexo d</p><hr style="margin-top:0px"><p><em>form <a href="https://travis-ci.org/" target="_blank" rel="noopener">travis-ci官網 (另開視窗)</a></em></p></div><p></p><h4>使用 travis-ci 前需準備哪些？</h4><p></p><ol>  <li>github 帳號</li>  <li>架設 hexo 部落格於 github.io</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;tip&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:20px&quot;&gt;
+  &lt;b&gt;有了 Travis-ci，你就可以自動同步很多事情了 &lt;img class=&quot;github-emoji&quot; title=&quot;tada&quot; alt=&quot;tada&quot; src=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="部落格" scheme="http://yoursite.com/categories/%E9%83%A8%E8%90%BD%E6%A0%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vscode</title>
+    <link href="http://yoursite.com/2018/02/05/vscode/"/>
+    <id>http://yoursite.com/2018/02/05/vscode/</id>
+    <published>2018-02-05T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.692Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip"> <i class="fas fa-user"></i><a href="https://pawelgrzybek.com/snippet-generator/" target="_blank" rel="noopener">snippet-generator 產生器</a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;tip&quot;&gt;
+ &lt;i class=&quot;fas fa-user&quot;&gt;&lt;/i&gt;
+&lt;a href=&quot;https://pawelgrzybek.com/snippet-generator/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;snippet-
+      
+    
+    </summary>
+    
+      <category term="IDE" scheme="http://yoursite.com/categories/IDE/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Node</title>
+    <link href="http://yoursite.com/2018/02/04/Node/"/>
+    <id>http://yoursite.com/2018/02/04/Node/</id>
+    <published>2018-02-04T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.688Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip"><ol style="padding-left:20px;"><li><a href="#Node01">資料傳遞：require 與 module</a></li></ol></div><ul id="Node01"><li><h4>資料傳遞：require 與 module</h4>取得資料 ./app.js<pre>var require = require(&#39;./data&#39;);</pre>輸出資料 ./data.js<pre>var name = &#39;吉利蛋&#39;;module.exports = {    name:name,    level: 20,    sex: girl}</pre></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;tip&quot;&gt;
+&lt;ol style=&quot;padding-left:20px;&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#Node01&quot;&gt;資料傳遞：require 與 module&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;ul id=&quot;Node01&quot;&gt;
+&lt;li&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="node" scheme="http://yoursite.com/categories/node/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo</title>
+    <link href="http://yoursite.com/2018/02/04/hexo/"/>
+    <id>http://yoursite.com/2018/02/04/hexo/</id>
+    <published>2018-02-04T16:18:38.000Z</published>
+    <updated>2018-07-29T07:39:28.692Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip"> <i class="fas fa-user"></i>  <i class="far fa-user"></i>  <!--brand icon-->  <i class="fab fa-github-square"></i><h4 style="margin-bottom:20px;margin-top:20px">筆記導覽</h4><ul><li><p><b>heox主題:Anatole</b></p><a href="https://github.com/Ben02/hexo-theme-Anatole/wiki" target="_blank" rel="noopener">主題安裝與配置</a></li><li><p><b>hexo部落格相關</b></p><a href="https://hexo.io/plugins/" target="_blank" rel="noopener">hexo插件連結</a></li><li><p><b>hexo使用FontAwesome5</b></p><a href="https://fontawesome.com/icons?d=gallery" target="_blank" rel="noopener">FontAwesome5 連結</a></li><li><p><b>部落格編輯語言：MarkDown</b></p><a href="http://markdown.tw/" target="_blank" rel="noopener">markdown學習</a></li></ul></div><p></p><h4>新增頁面</h4><p></p><pre><code>$ hexo new page about</code></pre><!-- <h4>Hexo主題push失敗：解決方法</h4><pre>$ git submodule add git@github.com:change2hao/hexo-theme-anatole.git themes/anatole$ git commit -am "refine UI"$ git push origin develop$ git submodule init // 这句很重要$ git submodule update</pre> --><p><a href="http://devtian.me/2015/03/17/blog-sync-solution/" target="_blank" rel="noopener">主題同步解決方法</a></p><p></p><h4 style="margin-bottom:10px">hexo 相關連結</h4><a href="https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-1.html" target="_blank" rel="noopener">https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-1.html</a><p></p><p></p><h4 class="mb-0">hexo外掛</h4><p></p><p><hr class="mt-0 mb-0"></p><p></p><p>貼心提醒:安裝完外掛後，要記得重新啟動 hexo server</p><p></p><ul><li><a href="https://github.com/crimx/hexo-filter-github-emojis" target="_blank" rel="noopener">emojis</a><br><a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank" rel="noopener">icon速查表</a><div class="pre-group"><div class="pre-head mt-1">/source/_posts/xxx.md</div><div class="pre-body"><pre>: tada : = <img class="github-emoji" title="tada" alt="tada" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png?v8" height="20" width="20"> <br>: bowtie : = <img class="github-emoji" title="bowtie" alt="bowtie" src="https://assets-cdn.github.com/images/icons/emoji/bowtie.png?v8" height="20" width="20"></pre></div></div></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;tip&quot;&gt;
+ &lt;i class=&quot;fas fa-user&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;far fa-user&quot;&gt;&lt;/i&gt;
+  &lt;!--brand icon--&gt;
+  &lt;i class=&quot;fab fa-github-square&quot;&gt;&lt;/i&gt;
+&lt;h4 
+      
+    
+    </summary>
+    
+      <category term="部落格" scheme="http://yoursite.com/categories/%E9%83%A8%E8%90%BD%E6%A0%BC/"/>
+    
+    
+  </entry>
+  
+</feed>
